@@ -1,0 +1,15 @@
+/Users/oribar/asp.net/ex1/homework2/bin/Release/net7.0/homework2
+/Users/oribar/asp.net/ex1/homework2/bin/Release/net7.0/homework2.deps.json
+/Users/oribar/asp.net/ex1/homework2/bin/Release/net7.0/homework2.runtimeconfig.json
+/Users/oribar/asp.net/ex1/homework2/bin/Release/net7.0/homework2.dll
+/Users/oribar/asp.net/ex1/homework2/bin/Release/net7.0/homework2.pdb
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.csproj.AssemblyReference.cache
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.AssemblyInfoInputs.cache
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.AssemblyInfo.cs
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.csproj.CoreCompileInputs.cache
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.dll
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/refint/homework2.dll
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.pdb
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/homework2.genruntimeconfig.cache
+/Users/oribar/asp.net/ex1/homework2/obj/Release/net7.0/ref/homework2.dll
