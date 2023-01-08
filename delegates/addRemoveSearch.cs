@@ -6,8 +6,7 @@ namespace homework2.delegates
 {
 	public class addRemoveSearch
 	{
-        public event EventHandler AddedToList;
-        public event EventHandler 
+
         public bool isVaildNumberInput(string input)
         {
             bool vaild = true;
