@@ -218,7 +218,7 @@ namespace homework2.delegates
                     vaild = isVaildNumberInput(input);
                     if (vaild)
                     {
-                        int numberOfcharacteristics = int.Parse(Console.ReadLine());
+                        int numberOfcharacteristics = int.Parse(input);
                         for (int i = 0; i < numberOfcharacteristics; i++)
                         {
                             Console.WriteLine("enter your characteristic name:");
